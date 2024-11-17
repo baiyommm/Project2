@@ -1,14 +1,32 @@
-//
-//  main.cpp
-//  Project2
-//
-//  Created by Chatchapong Thuaypha on 11/16/24.
-//
-
 #include <iostream>
+#include <memory>
+#include "functions.h"
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
-    return 0;
-}
+using namespace std;
+using namespace Portfolio;
+
+int main() {
+    
+    int capacity = 10;
+    int count = 0;
+    unique_ptr<Stock[]> stocks(new Stock[capacity]);
+
+    int choice;
+    do {
+        cout << "\nStock Portfolio Management System\n";
+        cout << "1. Add Stock\n";
+        cout << "2. Display Portfolio\n";
+        cout << "3. Analyze Stock\n";
+        cout << "4. Save Portfolio to File\n";
+        cout << "5. Load Portfolio from File\n";
+        cout << "6. Search Stock\n";
+        cout << "0. Exit\n";
+        cout << "Enter your choice: ";
+        cin >> choice;
+
+        
+        
+        
+        
+        return 0;
+       }
