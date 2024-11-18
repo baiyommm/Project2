@@ -1,0 +1,6 @@
+#ignoring specific file
+.env
+#ignoring specific directories
+/Project2.xcodeproj
+#ignoring specific file type
+*.xcodeproj
