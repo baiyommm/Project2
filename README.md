@@ -10,20 +10,27 @@ arrays, pointers, strings, structures, enumerations, and stream operations.
 Features
 
 (1) Add Stock: Add a new stock to the portfolio with details like ticker symbol, number of shares, purchase price, current price, and historical prices.
+
 (2) Display Portfolio: View all stocks in the portfolio with relevant information, including ticker, shares, purchase price, and current price.
+
 (3) Analyze Stock: Analyze the performance of each stock based on the purchase and current price, indicating whether it is in profit, loss, or neutral status.
+
 (4) Save Portfolio: Save the current portfolio data to a text file for future reference and persistence.
+
 (5) Load Portfolio: Load portfolio data from a text file, restoring the previously saved stock records.
+
 (6) Search Stock: Search for a specific stock by its ticker symbol and display its details if found.
+
 (0) Exit: Exit program with 0.
+
 
 Core Functions and Rubric Specifications
 
 1. Functionality
  - Basic Functionality:
-      The program runs withour bugs and errors. It fulfills the main requirements of adding, viewing, analyzing, saving, loading, and searching stocks.
+       - The program runs without bugs and errors. It fulfills the main requirements of adding, viewing, analyzing, saving, loading, and searching stocks.
  - Correct Implementation of Concepts:
-      The code demonstrates the use of arrays, pointers, strings, structures, enumerations, and stream operations.
+       - The code demonstrates the use of arrays, pointers, strings, structures, enumerations, and stream operations.
 
 2. Usage of Arrays and Pointers
  - Arrays:
