@@ -10,7 +10,7 @@ int main() {
     int capacity = 10;
     int count = 0;
     unique_ptr<Stock[]> stocks(new Stock[capacity]);
-
+    
     int choice;
     do {
         cout << "\nStock Portfolio Management System\n";
@@ -23,10 +23,13 @@ int main() {
         cout << "0. Exit\n";
         cout << "Enter your choice: ";
         cin >> choice;
-
         
+        while (<#condition#>) {
+            <#statements#>
+        }
         
         
         
         return 0;
-       }
+    }
+}

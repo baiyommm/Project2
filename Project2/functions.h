@@ -20,6 +20,14 @@ struct Stock {
 
 // Function declarations
 void addStock(Stock* stocks, int& count);
+void displayPortfolio(const Stock* stocks, int count);
+void analyzeStock(const Stock& stock);
+void savePortfolio(const Stock* stocks, int count);
+void loadPortfolio(Stock* stocks, int& count);
+void searchStock(const Stock* stocks, int count);
+StockStatus determineStatus(double purchasePrice, double currentPrice);
+void cleanUp(Stock* stocks);
 
+}
 
-#endif /* functions_h */
+#endif
