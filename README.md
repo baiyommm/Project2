@@ -28,9 +28,9 @@ Core Functions and Rubric Specifications
 
 1. Functionality
  - Basic Functionality:
-       - The program runs without bugs and errors. It fulfills the main requirements of adding, viewing, analyzing, saving, loading, and searching stocks.
+       The program runs without bugs and errors. It fulfills the main requirements of adding, viewing, analyzing, saving, loading, and searching stocks.
  - Correct Implementation of Concepts:
-       - The code demonstrates the use of arrays, pointers, strings, structures, enumerations, and stream operations.
+       The code demonstrates the use of arrays, pointers, strings, structures, enumerations, and stream operations.
 
 2. Usage of Arrays and Pointers
  - Arrays:
@@ -61,7 +61,7 @@ Core Functions and Rubric Specifications
       Algorithms are implemented for searching in [searchStock()] and analyzing stock data in [analyzeStock()].
  - Memory Usage:
       The use of smart pointer [unique_ptr] ensures memory allocation and deallocation.
-      The program dynamically manages the stock array, resizing as necessary based on user input.
+      The program dynamically manages the stock array and resizes as necessary based on user input.
 
 6. Documentation and Style
  - Code Documentation:
