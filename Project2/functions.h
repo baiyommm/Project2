@@ -26,7 +26,6 @@ void savePortfolio(const Stock* stocks, int count);
 void loadPortfolio(Stock* stocks, int& count);
 void searchStock(const Stock* stocks, int count);
 StockStatus determineStatus(double purchasePrice, double currentPrice);
-void cleanUp(Stock* stocks);
 
 }
 
