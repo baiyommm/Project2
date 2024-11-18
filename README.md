@@ -70,6 +70,7 @@ Core Functions and Rubric Specifications
       Consistent naming conventions and a logical structure are maintained the code.
 
 Example Screenshots of the Program:
+
 <img width="378" alt="Screenshot 2024-11-17 at 10 17 56 PM" src="https://github.com/user-attachments/assets/c6bc35b6-bd29-4f99-9aa5-b474b487f071">
 <img width="438" alt="Screenshot 2024-11-17 at 10 18 12 PM" src="https://github.com/user-attachments/assets/a42f7630-2275-429c-b425-fdd3f8506255">
 <img width="621" alt="Screenshot 2024-11-17 at 10 18 31 PM" src="https://github.com/user-attachments/assets/003b4222-57c4-42c0-a616-e90b5cc17923">
