@@ -1,4 +1,5 @@
 [CIS25] Project 2: Stock Portfolio Management System
+Created By Chatchapong Thuaypha
 
 Description
 
@@ -68,6 +69,8 @@ Core Functions and Rubric Specifications
       Each function has comments explaining the purpose, input, and output of the function.
  - Readability and Style:
       Consistent naming conventions and a logical structure are maintained the code.
+
+YouTube Link: https://youtu.be/fvCvhyFbdL4
 
 Example Screenshots of the Program:
 
