@@ -1,5 +1,5 @@
 [CIS25] Project 2: Stock Portfolio Management System
-Created By Chatchapong Thuaypha
+(Created By Chatchapong Thuaypha)
 
 Description
 
